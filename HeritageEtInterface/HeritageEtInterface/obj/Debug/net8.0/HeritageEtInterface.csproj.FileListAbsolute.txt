@@ -1,0 +1,14 @@
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\HeritageEtInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\HeritageEtInterface.AssemblyInfoInputs.cache
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\HeritageEtInterface.AssemblyInfo.cs
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\HeritageEtInterface.csproj.CoreCompileInputs.cache
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\bin\Debug\net8.0\HeritageEtInterface.exe
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\bin\Debug\net8.0\HeritageEtInterface.deps.json
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\bin\Debug\net8.0\HeritageEtInterface.runtimeconfig.json
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\bin\Debug\net8.0\HeritageEtInterface.dll
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\bin\Debug\net8.0\HeritageEtInterface.pdb
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\HeritageEtInterface.dll
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\refint\HeritageEtInterface.dll
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\HeritageEtInterface.pdb
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\HeritageEtInterface.genruntimeconfig.cache
+C:\Users\bouch\source\repos\HeritageEtInterface\HeritageEtInterface\obj\Debug\net8.0\ref\HeritageEtInterface.dll
